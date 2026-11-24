@@ -1,0 +1,1 @@
+{"description":"One-line joke about office life for the make.fun 24-Hour Sprint bounty.","engines":{"node":">=22"},"name":"one-line-office-joke-24-hour-sprint-westi","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
